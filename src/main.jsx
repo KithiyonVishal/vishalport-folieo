@@ -167,7 +167,7 @@ function App() {
             <div className="contactLinks">
               <a href="tel:6380377379"><Phone size={18}/> 6380377379</a>
               <a href="mailto:kithiyonvishal2004@gmail.com"><Mail size={18}/> kithiyonvishal2004@gmail.com</a>
-              <a href="https://linkedin.com/in/vishal-a-78432725" target="_blank"><ArrowUpRight size={18}/> LinkedIn Profile</a>
+              <a href="https://www.linkedin.com/in/vishal-a-78432725b/?isSelfProfile=true" target="_blank"><ArrowUpRight size={18}/> LinkedIn Profile</a>
             </div>
           </div>
         </section>
